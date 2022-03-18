@@ -43,11 +43,10 @@ As part of the installation, this Terraform playbook will install the pre-requis
 
 **1. Clone or download the contents of this repo** 
      
-     git clone https://github.com/chiphwang1/oci-terraform-osok.git
-
+     git clone https://github.com/oracle-devrel/terraform-oci-oke-osok-install.git
 **2. Change to the directory that holds the Terraform code** 
 
-      cd ./oci-terraform-osok
+      cd ./terraform-oci-oke-osok-install
 
 **3. Populate the variables.tf file with the required information to deploy OSOK**
 
