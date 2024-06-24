@@ -29,7 +29,7 @@ if [[ ! -z "$olm" ]]
 then
   echo "OLM already installed skip installation"
 else
-  operator-sdk olm install --version 0.17.0
+  operator-sdk olm install --version 0.20.0
 fi
 
 # Verify Installation
