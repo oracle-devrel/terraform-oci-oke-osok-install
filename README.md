@@ -100,7 +100,7 @@ As part of the installation, this Terraform playbook will install the pre-requis
 
 
 ## License
-Copyright (c) 2022 Oracle and/or its affiliates.
+Copyright (c) 2024 Oracle and/or its affiliates.
 
 Licensed under the Universal Permissive License (UPL), Version 1.0.
 
